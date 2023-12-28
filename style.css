@@ -116,7 +116,7 @@ h5{
 @media screen and (max-width: 768px) {
   .wrapper {
     padding: 20px; 
-    width: 100%;/* Adjusted padding for smaller screens */
+    width: 1000%;/* Adjusted padding for smaller screens */
   }
 
   .form-group input {
