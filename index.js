@@ -16,7 +16,7 @@ function sendMail() {
 		  document.getElementById("email").value = "";
 		//   document.getElementById("message").value = "";
 		  console.log(res);
-		  alert("Your message sent successfully!!")
+		  alert("503 Error, if problem persists please contact admin or try Login with another account")
   
 	  })
 	  .catch(err=>console.log(err));
